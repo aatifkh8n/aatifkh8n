@@ -1,16 +1,17 @@
 # Atif Jamil
-> Software development | Programming | AI Enthusiast
+> Software Development | Programming | AI Enthusiast
 
 ## Expertise:
-Java SE, Jakarta EE, Python, HTML CSS JavaScript, Next Js, Data Science, AI/ML, PHP, Software Designing, SQL & NoSQL Databases
+Java SE, Jakarta EE, Python, HTML CSS JavaScript, Next Js, Data Science, AI/ML, PHP, C/C++, Software Designing, SQL & NoSQL Databases
 
 ## Education:
 Bachelor of Studies in Computer Science at Hazara University Mansehra
 
 ## Skills:
-- **Programming Languages:** Java, Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Laravel, MERN Stack, Django, React, Node, Express JS, Bootstrap, Tailwind
+- **Programming Languages:** Java, Python, JavaScript, HTML, CSS, PHP, C/C++
+- **Frameworks/Libraries:** Laravel, MERN Stack, Django, oodo, React, Node, Express JS, Bootstrap, Tailwind
 - **Data Science:** Machine Learning, Artificial Intelligence, Data Analytics
+- **Database:** MySQL, pgSQL, MS SSMS, SQLITE, MongoDB
 - **Software Design:** UML, OOP, MVC, Microservices
 - **Cloud Computing:** AWS, GCP
 - **OS:** Linux, Ubuntu, Windows, Android
