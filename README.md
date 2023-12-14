@@ -9,10 +9,12 @@ Bachelor of Studies in Computer Science at Hazara University Mansehra
 
 ## Skills:
 - **Programming Languages:** Java, Python, JavaScript, HTML, CSS, PHP, C/C++
-- **Frameworks/Libraries:** Laravel, MERN Stack, Django, oodo, React, Node, Express JS, Bootstrap, Tailwind
+- **Frameworks/Libraries:** Laravel, MERN Stack, Django, Odoo, React, Node, Express JS, Bootstrap, Tailwind
 - **Data Science:** Machine Learning, Artificial Intelligence, Data Analytics
 - **Database:** MySQL, pgSQL, MS SSMS, SQLITE, MongoDB
-- **Software Design:** UML, OOP, MVC, Microservices
+- **Software Design:** UML, OOP, MVC, Microservices, AOP
+- **Web services:** REST API, SOAP
+- **Script:** Python, Bash
 - **Cloud Computing:** AWS, GCP
 - **OS:** Linux, Ubuntu, Windows, Android
 
